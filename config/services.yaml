@@ -1,0 +1,29 @@
+parameters:
+
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        bind:
+            $isDebug: '%kernel.debug%'
+    _instanceof:
+        App\Utils\TextAnalysis\TextAnalysisHandlerInterface:
+            tags: ['text.analysis']
+    App\:
+        resource: '../src/'
+        exclude:
+            - '../src/DependencyInjection/'
+            - '../src/Entity/'
+            - '../src/Kernel.php'
+
+    App\EventListener\PerformanceListener:
+        tags:
+            - { name: kernel.event_listener, event: kernel.request, priority: 500 }
+
+    App\EventListener\ExceptionListener:
+        tags:
+            - { name: kernel.event_listener, event: kernel.exception, priority: 500 }
+
+    App\EventListener\ResponseListener:
+        tags:
+            - { name: kernel.event_listener, event: kernel.response }

@@ -1,0 +1,172 @@
+{
+  "url": "https:\/\/www.hg-buchhofer.com",
+  "domainName": "www.hg-buchhofer.com",
+  "metas": {
+    "title": "H.G. Buchhofer | home",
+    "description": "The album &quot;Lumen&quot; contains twelve slow and simple melancholic tracks creating a cinematic and mystical atmosphere. The genre might best be described as classical instrumental electronic music. The album was published through recordJet and released on September 1st, 2020.",
+    "keywords": "composition, game, film, trailer, jingle, podcast, audiobooks"
+  },
+  "content": {
+    "headlines": [
+      {
+        "name": "h1",
+        "count": 0
+      },
+      {
+        "name": "h2",
+        "count": 1,
+        "headlines": [
+          {
+            "content": "Album Release"
+          }
+        ]
+      },
+      {
+        "name": "h3",
+        "count": 0
+      },
+      {
+        "name": "h4",
+        "count": 0
+      },
+      {
+        "name": "h5",
+        "count": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "album",
+        "count": 3
+      },
+      {
+        "name": "samples",
+        "count": 2
+      },
+      {
+        "name": "sounds",
+        "count": 2
+      },
+      {
+        "name": "buchhofer",
+        "count": 1
+      },
+      {
+        "name": "home",
+        "count": 1
+      },
+      {
+        "name": "service",
+        "count": 1
+      },
+      {
+        "name": "about",
+        "count": 1
+      },
+      {
+        "name": "contact",
+        "count": 1
+      },
+      {
+        "name": "release",
+        "count": 1
+      },
+      {
+        "name": "lumen",
+        "count": 1
+      }
+    ],
+    "links": {
+      "internalLinks": [
+        {
+          "link": "\/"
+        },
+        {
+          "link": "\/samples"
+        },
+        {
+          "link": "\/service"
+        },
+        {
+          "link": "\/about"
+        },
+        {
+          "link": "\/contact"
+        },
+        {
+          "link": "\/dataprotection"
+        },
+        {
+          "link": "\/imprint"
+        },
+        {
+          "link": "\/cookies"
+        }
+      ],
+      "externalLinks": [
+        {
+          "link": "https:\/\/music.apple.com\/de\/album\/lumen\/1527281703"
+        },
+        {
+          "link": "https:\/\/www.amazon.de\/gp\/product\/B08FCH4MW6\/ref=dm_ws_sp_ps_dp"
+        },
+        {
+          "link": "https:\/\/open.spotify.com\/album\/4cAhcNg6bx7ZDivRDF5uiU"
+        }
+      ]
+    }
+  },
+  "javascript": [
+    {
+      "script": "https:\/\/www.google-analytics.com\/analytics.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/polyfills-2be76cc2531af487e612.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/main-39530e720dac3ea2e1ee.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/webpack-d7b2fb72fb7257504a38.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/framework.4df82c4704a0136f6a4b.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/commons.6ca6ecffb40b8d05b7a3.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/pages\/_app-b428e92bfc4083d99a69.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/05d954cf.1a7fc790006c3a68844f.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/cb1608f2.cfe39d6120daa3034508.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/e9e83a6664d6b2381622f9b85f9c82e244a73ae7_CSS.ff5578978733a40a67a3.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/e9e83a6664d6b2381622f9b85f9c82e244a73ae7.309f2d10d45ac53c8416.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/8c22f6eed6202dbf528e04afda3944c438ce939d.4046f52a0be471960586.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/c3596a153674ff493bab9b4a82a0897e732d9c1e_CSS.c3c33dcc23d96beb9452.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/styles.783c425679a1cf002be7.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/pages\/index-4bd152fd9caf816a997a.js"
+    },
+    {
+      "script": "\/_next\/static\/z1tVDsOsB7AcpWuuLOmNv\/_buildManifest.js"
+    },
+    {
+      "script": "\/_next\/static\/z1tVDsOsB7AcpWuuLOmNv\/_ssgManifest.js"
+    }
+  ]
+}

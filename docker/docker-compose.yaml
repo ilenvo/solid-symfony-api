@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+    nginx:
+        build:
+            context: nginx
+        volumes:
+            - ../:/var/www/html:delegated
+            - ./nginx/app.conf:/etc/nginx/conf.d/app.conf
+        ports:
+            - '81:80'
+    php-fpm:
+        build:
+            context: fpm
+        user: '1000:1000'
+        volumes:
+            - ../:/var/www/html:delegated
+        environment:
+            PHP_IDE_CONFIG: serverName=dev
+        extra_hosts:
+            - "host.docker.internal:host-gateway"

@@ -1,0 +1,4 @@
+eight_points_guzzle:
+    clients:
+        scan:
+           handler: 'App\Tests\GuzzleMockHelper'
