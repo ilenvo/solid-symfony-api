@@ -15,7 +15,7 @@ __This API contains two endpoints.__
 This project is based on __Symfony 6.1__ with __PHP 8.1__. All code was tested with unit and functional tests 
 and has a code coverage of 100%. The code is formatted with __PSR-12__.
 
-![API Request](doc/img/code-coverage.jpg)
+<img src="doc/img/code-coverage.jpg" width="350px">
 
 ### Selection of used packages
 
