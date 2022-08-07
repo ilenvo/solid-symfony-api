@@ -1,0 +1,158 @@
+{
+  "url": "https:\/\/www.ilenvo.com",
+  "domainName": "www.ilenvo.com",
+  "contentLength": "4.14 KB",
+  "metas": {
+    "title": "ilenvo media | About",
+    "description": "Die drei Schwerpunkte meiner Arbeit: erstens das Entwickeln von REST-Schnittstellen f\u00fcr Anwendungen wie User-Verwaltung und Rechnungserstellung. Zweitens die Programmierung von Single-Sign-On-Systemen mit Multi-Factor Authentication. Und drittens: das Implementieren von Suchen in Elastic Search in allen erdenklichen Varianten.",
+    "keywords": "Bits, Bytes, Design Patterns, Private, Software-Architekt, Software-Entwickler"
+  },
+  "content": {
+    "headlines": [
+      {
+        "name": "h1",
+        "count": 1,
+        "headlines": [
+          {
+            "content": "Stefan Buchhofer"
+          }
+        ]
+      },
+      {
+        "name": "h2",
+        "count": 1,
+        "headlines": [
+          {
+            "content": "Software-Entwickler und Software-Architekt"
+          }
+        ]
+      },
+      {
+        "name": "h3",
+        "count": 1,
+        "headlines": [
+          {
+            "content": "Pers\u00f6nlich"
+          }
+        ]
+      },
+      {
+        "name": "h4",
+        "count": 0
+      },
+      {
+        "name": "h5",
+        "count": 0
+      }
+    ],
+    "keywords": [
+      {
+        "name": "software",
+        "count": 5
+      },
+      {
+        "name": "development",
+        "count": 4
+      },
+      {
+        "name": "jahren",
+        "count": 3
+      },
+      {
+        "name": "kontakt",
+        "count": 2
+      },
+      {
+        "name": "entwickler",
+        "count": 2
+      },
+      {
+        "name": "ausbildung",
+        "count": 2
+      },
+      {
+        "name": "ilenvo",
+        "count": 2
+      },
+      {
+        "name": "media",
+        "count": 2
+      },
+      {
+        "name": "arbeit",
+        "count": 2
+      },
+      {
+        "name": "apps",
+        "count": 2
+      }
+    ],
+    "links": {
+      "internalLinks": [
+        {
+          "link": "\/de"
+        },
+        {
+          "link": "\/de\/software-development"
+        },
+        {
+          "link": "\/de\/consulting"
+        },
+        {
+          "link": "\/de\/about"
+        },
+        {
+          "link": "\/de\/contact"
+        },
+        {
+          "link": "\/de\/privacy-policy"
+        },
+        {
+          "link": "\/de\/imprint"
+        },
+        {
+          "link": "\/de\/technology"
+        },
+        {
+          "link": "\/de\/cookies"
+        }
+      ],
+      "externalLinks": []
+    }
+  },
+  "javascript": [
+    {
+      "script": "\/_next\/static\/chunks\/polyfills-78cde1760acba30b47d6.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/main-f34c6f382fdd6effb602.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/webpack-eb080e3f091731f228fb.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/framework.d342f5f3955b7f7d6277.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/a2127fbe.4d62413f4da81be1e932.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/commons.6477bdd9ae46d631b879.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/pages\/_app-347dae1b44f1503dbb24.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/917cecb2c0efd074e84c16a0cdee3629db52cfc8.2216162afc9626641f00.js"
+    },
+    {
+      "script": "\/_next\/static\/chunks\/pages\/about-72b0a8453fcc24c753e1.js"
+    },
+    {
+      "script": "\/_next\/static\/De6Y-KezCArabo918_4SE\/_buildManifest.js"
+    },
+    {
+      "script": "\/_next\/static\/De6Y-KezCArabo918_4SE\/_ssgManifest.js"
+    }
+  ]
+}
