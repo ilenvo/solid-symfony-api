@@ -25,6 +25,6 @@ Open your browser and visit http://localhost:81
 
 ## Notes
 
-Of course, you can also use and configure your local webserver.
+Of course you can also use and configure your local webserver.
 
 [Back to overview](../README.md)
