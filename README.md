@@ -19,13 +19,13 @@ and has a code coverage of 100%. The code is formatted with __PSR-12__.
 
 ### Selection of used packages
 
-__Required to build the Projekt__
+__Required to build the project__
 
 - "nelmio/api-doc-bundle": "^4.9" - Swagger documentation
 - "jms/serializer-bundle": "^4.0" - Serialize and deserialize JSON
 - "phpunit/phpunit": "^9.5" - For testing
 
-__Used for the Service endpoints__
+__Used for the service endpoints__
 
 - "ezyang/htmlpurifier": "^4.14" - Clean up HTML
 - "eightpoints/guzzle-bundle": "^8.3" - Receive external HTML
